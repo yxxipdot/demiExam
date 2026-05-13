@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Деееееееееееееееееееееемо\bin\Debug\Деееееееееееееееееееееемо.exe.config
+C:\Users\user\source\repos\Деееееееееееееееееееееемо\bin\Debug\Деееееееееееееееееееееемо.exe
+C:\Users\user\source\repos\Деееееееееееееееееееееемо\bin\Debug\Деееееееееееееееееееееемо.pdb
+C:\Users\user\source\repos\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.Auth.resources
+C:\Users\user\source\repos\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.Properties.Resources.resources
+C:\Users\user\source\repos\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.exe
+C:\Users\user\source\repos\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.pdb
