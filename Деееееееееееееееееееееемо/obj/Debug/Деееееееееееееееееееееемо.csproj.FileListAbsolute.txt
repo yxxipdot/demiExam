@@ -8,3 +8,14 @@ C:\Users\user\source\repos\Деееееееееееееееееееееемо\ob
 C:\Users\user\source\repos\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.exe
 C:\Users\user\source\repos\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.pdb
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\bin\Debug\Деееееееееееееееееееееемо.exe.config
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\bin\Debug\Деееееееееееееееееееееемо.exe
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\bin\Debug\Деееееееееееееееееееееемо.pdb
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.csprojAssemblyReference.cache
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.Properties.Resources.resources
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.csproj.GenerateResource.cache
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.exe
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.pdb
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.AuthForm.resources
+C:\Users\user\Downloads\demo full\Деееееееееееееееееееееемо\obj\Debug\Деееееееееееееееееееееемо.ProductForm.resources
